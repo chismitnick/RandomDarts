@@ -11,7 +11,7 @@ main(List<String>arguments){
 //using ,reversed property to print the list in reverse order 
   print(lottoNumbers.reversed);
 
-//using .lookup metho to search for a paticular element
+//using .lookup metho to search a set for a paticular element
   print(classList.lookup('Andrew'));
 
 }
