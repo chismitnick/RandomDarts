@@ -1,4 +1,4 @@
-
+// Basic dart program
 
 main(){
   
@@ -10,7 +10,5 @@ main(){
 
 doSomething(){
   print("This is printed from a fucntion call");
-
-
 
 }
