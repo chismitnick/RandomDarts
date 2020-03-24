@@ -1,4 +1,4 @@
-// Demonstration of Flow controol using if-else statements in dart
+// Demonstration of Flow control using if-else statements in dart
 
 main(List<String> arguments) {
   bool first = true;

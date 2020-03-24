@@ -1,9 +1,7 @@
 // Modification of the previous program to add usage of OR and AND statements
 
-
-main(List<String>arguments){
-
-bool first = true;
+main(List<String> arguments) {
+  bool first = true;
   bool second = false;
   bool third = true;
   bool fourth = false;
@@ -17,7 +15,8 @@ bool first = true;
   if (second && fourth) {
     print('the second and forth gears are functional');
   } else {
-    print('the second andd fourth gears cannot be engaged at this point in time');
+    print(
+        'the second andd fourth gears cannot be engaged at this point in time');
   }
 
   if (third || first && second || fourth) {
@@ -31,6 +30,4 @@ bool first = true;
   } else {
     print('cannot make that engagement system will mulfunction');
   }
-
-
 }

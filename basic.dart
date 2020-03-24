@@ -1,14 +1,12 @@
 // Basic dart program
 
-main(){
-  
+main() {
   print("Hello world");
 
   //fucntion call
   doSomething();
 }
 
-doSomething(){
+doSomething() {
   print("This is printed from a fucntion call");
-
 }
