@@ -3,7 +3,7 @@
 main() {
   print("Hello world");
 
-  //fucntion call
+  //function call
   doSomething();
 }
 

@@ -13,7 +13,7 @@ main(List<String> arguments) {
   if (numberOne == 76) print('The value of $numberOne is set');
 
   if (numberTwo == null) print('Number two is not null');
-// special operator to denot null variable ??=
+// special operator to denote null variable ??=
   numberFour ??= numberThree;
   print(numberFour);
 }

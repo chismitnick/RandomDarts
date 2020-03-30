@@ -10,7 +10,7 @@ main() {
 //convert double to string
   String doubleToString = myDouble.toString();
 
-//conditional statement prefromed on newly converted string values
+//conditional statement preformed on newly converted string values
   if ((numberToString == '234' && myNumber.isFinite) &&
       (doubleToString == '23.875' && myDouble.isFinite)) {
     print("Both numbers are finite");
