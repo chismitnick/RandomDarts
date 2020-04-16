@@ -10,7 +10,8 @@ main(List<String> arguments) {
   // Here we are comparing number1 to number2
   //if number1 is less than number2 then we assign number1 to the
   //computeSmallest variable
-  //iif the comparison is false the we assign number2 to the variable computeSmallest
+
+  //if the comparison is false the we assign number2 to the variable computeSmallest
   int computeSmallest = number1 < number2 ? number1 : number2;
 
   if (computeSmallest == number1) {
@@ -19,7 +20,7 @@ main(List<String> arguments) {
     print('The second number is smaller than the first number');
   }
 
-  //Conditionl expressio can also make use nulls
+  //Conditional expression can also make use nulls
   // if the first one of the values are not null we assign it to the variable
 
   int smallNumber = number1 ?? number2;
