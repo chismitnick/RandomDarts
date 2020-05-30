@@ -13,5 +13,6 @@ main(List<String> arguments) {
 
   if (myCars.containsValue('Bentley')) {
     print("The map contains the value: " + "${myCars[5]}");
+    print(myCars);
   }
 }
