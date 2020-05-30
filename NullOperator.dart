@@ -1,7 +1,5 @@
 /* 
-While  assigning  a  value,  we  use  the  =  operator.  What  happens  when  the 
-assigned-to  variable
-
+While  assigning  a  value,  we  use  the  =  operator.
 */
 
 main(List<String> arguments) {
