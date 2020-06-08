@@ -2,7 +2,7 @@
 Dart has a lot to offer when classes need to be reused;
 there is an important concept called a mixin.
 Enables the reuse of a class's code in multiple class hierarchies.
-or put simply to brig in features from another class
+or put simply to bring in features from another class
 
 To use mixin we must use the 'with' keyword
 csamiselo@github.com April 2020
