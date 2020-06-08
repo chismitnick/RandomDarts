@@ -1,1 +1,4 @@
 Dart.iml
+.vscode
+.idea
+.dist
