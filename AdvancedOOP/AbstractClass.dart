@@ -38,13 +38,12 @@ class Brightness extends Volume {
     print('The volume has benn decreased');
   }
 
-  void justAnotherFunction(int age){
+  void justAnotherFunction(int age) {
     print('This functions purpose is to display:${age}');
   }
 }
 
-
-main(List<String>arguments){
+main(List<String> arguments) {
   var newControl = Brightness();
   newControl.add();
   newControl.subtract();
