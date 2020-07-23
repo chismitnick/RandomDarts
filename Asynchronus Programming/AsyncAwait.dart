@@ -2,8 +2,7 @@
 //The async and await keywords provide a declarative way
 // to define asynchronous functions and use their results
 
-
-Future<String>createFetchMessage() async {
+Future<String> createFetchMessage() async {
   var record = await fetchStudentRecord();
   return 'Fetching Student records: $record';
 }
